@@ -18,3 +18,5 @@ Just run the  Imperfect_CSI_MassiveMIMO_Uncoded_BER.m code for imperfect CSI sim
 
 IMPORTANT information:
 part of this codes are taken from https://github.com/IIP-Group/massiveMIMOdetection.git
+
+Note: this is the raw version of our published article "Likelihood ascent search-aided low complexity improved performance massive MIMO detection in perfect and imperfect channel state information".  You may contact author here: schakraborty.ec@gmail.com
