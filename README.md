@@ -6,6 +6,10 @@ Chakraborty, S, Sinha, NB, Mitra, M. Likelihood ascent search-aided low complexi
 
 How to use the code: Two separate simulations cases are provided. The perfect channel state information (perfect CSI) simulation files are given in perfect_CSI folder. The imperfect CSI codes are given in Imperfect_CSI folder.
 
+Perfect CSI simulation:
+
+In this case we have added both simulation files as well as the script suitable for data export in consoliadate form. The exported data can be directly imported in origin for plot.
+
 
 IMPORTANT information:
 part of this codes are taken from https://github.com/IIP-Group/massiveMIMOdetection.git
