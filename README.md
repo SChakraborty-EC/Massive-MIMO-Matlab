@@ -11,5 +11,10 @@ Perfect CSI simulation:
 In this case we have added both simulation files as well as the script suitable for data export in consoliadate form. The exported data can be directly imported in origin for plot.
 
 
+Imperfect CSI simulation:
+
+Just run the  Imperfect_CSI_MassiveMIMO_Uncoded_BER.m code for imperfect CSI simulation
+
+
 IMPORTANT information:
 part of this codes are taken from https://github.com/IIP-Group/massiveMIMOdetection.git
